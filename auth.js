@@ -1,7 +1,7 @@
 const bcrypt = require("bcryptjs");
 const jwt = require("jsonwebtoken");
 const saltRound = 10;
-const secretKey = "PoINjnLK89$#!Nnjsdk!@%";
+const secretKey = "MoINjnZK89$#!Nnjsdk!@%";
 const JWTD = require("jwt-decode");
 
 //hashed password generation
